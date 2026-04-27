@@ -1,0 +1,6 @@
+cd C:\Users\Lucas Quintana\Desktop\maestria\semestre 2\seminario de investigación 2\fase 2\prototipo 1
+streamlit run app_streamlit.py
+
+
+
+"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"
